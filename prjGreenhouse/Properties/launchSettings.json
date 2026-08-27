@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "prjGreenhouse": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

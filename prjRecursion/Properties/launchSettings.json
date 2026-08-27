@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "prjRecursion": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

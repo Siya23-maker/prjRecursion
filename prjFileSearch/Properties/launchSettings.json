@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "prjFileSearch": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
